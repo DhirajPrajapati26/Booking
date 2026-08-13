@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import SearchResults from "./pages/SearchResults.jsx";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import SeatSelection from "./pages/SeatSelection.jsx";
+import SearchResults from "./pages/SearchResults.jsx";
 import PassengerDetails from "./pages/PassengerDetails.jsx";
 import BookingDetails from "./pages/BookingDetails.jsx";
 import MyBookings from "./pages/MyBookings.jsx";
